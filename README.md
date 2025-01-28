@@ -71,6 +71,6 @@
 
 ###
 
-<p align="left">Hi I'm Mustafa, I'm interested in backend and data science.</p>
+<p align="left">Hi I'm Mustafa, I'm interested in backend, data science and robotics.</p>
 
 ###
